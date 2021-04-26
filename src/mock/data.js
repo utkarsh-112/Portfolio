@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Simple responsive website design',
-    info: '',
+    info: 'I am a big MARVEL fan so i built a MARVEL fan page for everyone where one can register himself/herself and he/she will get updates on the upcoming marvel movies and series',
     info2: '',
     url: 'https://utkarsh-112.github.io/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
