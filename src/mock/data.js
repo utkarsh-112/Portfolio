@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'https://github.com/utkarsh-112',
 };
 
 // FOOTER DATA
@@ -67,23 +67,13 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'linkedin',
-      url: '',
+      name: 'instagram',
+      url: 'https://www.instagram.com/utkarsh.ksk11/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/utkarsh-112',
     },
   ],
 };
