@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a self-starter with strong interpersonal skills. ',
   paragraphTwo: 'I work efficiently both as an individual contributor as well as along with a team. ',
   paragraphThree: 'I seek new challenges and try to think out-of-the-box while looking for creative solutions to a given problem.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://www.canva.com/design/DAEcx3NDJKw/KsOZQ7EVv2vUMNW2QrTDiA/view?utm_content=DAEcx3NDJKw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
