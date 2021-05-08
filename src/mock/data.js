@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am a self-starter with strong interpersonal skills. ',
-  paragraphTwo: 'I work efficiently both as an individual contributor as well as along with a team. ',
+  paragraphOne: 'I am a student of AMITY UNIVERSITY GURUGRAM currently pursuing Btech CSE. ',
+  paragraphTwo: 'I love programming and learning new programming language especially making interesting projects with them. ',
   paragraphThree: 'I seek new challenges and try to think out-of-the-box while looking for creative solutions to a given problem.',
   resume: 'https://www.canva.com/design/DAEcx3NDJKw/KsOZQ7EVv2vUMNW2QrTDiA/view?utm_content=DAEcx3NDJKw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink', // if no resume, the button will not show up
 };
@@ -38,20 +38,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project2.jpg',
-    title: 'Simple responsive website design',
-    info: 'I am a big MARVEL fan so i built a MARVEL fan page for everyone where one can register himself/herself and he/she will get updates on the upcoming marvel movies and series',
-    info2: '',
-    url: 'https://utkarsh-112.github.io/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project3.jpg',
     title: 'Robofriends React App',
     info: 'This is a highly interative app that i developed using React which displays different robots with corresponding names and emails',
     info2: '',
     url: 'https://utkarsh-112.github.io/robofriends/',
     repo: 'https://github.com/utkarsh-112/robofriends', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project3.jpg',
+    title: 'Smart-Brain-API (Full Stack Face Recognition App)',
+    info: 'I made a Face recognition App with node.js, react, postgreSQL and javascript. It has a signin and register form in which you need to register only once and it will remember your credentials so that you can signin next time easily. You have to give an Image URL and it will detect the face automatically and update the times you detect faces in the app in the entry count.',
+    info2: '',
+    url: 'https://facerecognition-smart-brainapp.herokuapp.com/',
+    repo: 'https://github.com/utkarsh-112/Smart-brain-front', // if no repo, the button will not show up
   },
 ];
 
