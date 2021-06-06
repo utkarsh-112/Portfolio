@@ -53,6 +53,24 @@ export const projectsData = [
     url: 'https://facerecognition-smart-brainapp.herokuapp.com/',
     repo: 'https://github.com/utkarsh-112/Smart-brain-front', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project4.jpg',
+    title: 'Guess My Number',
+    info: 'This is a simple game purely based on HTML5, CSS3 and javascript. A random number is generated each time we play the game and we have to guess the number in the minimum guesses possible to win.',
+    info2: '',
+    url: 'https://utkarsh-112.github.io/Guess-number-game.github.io/',
+    repo: 'https://github.com/utkarsh-112/Guess-number-game.github.io', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project5.jpg',
+    title: 'Roll the Dice',
+    info: 'This is a multiplayer game where two players can play at once. Player has to start the game by clicking on roll dice. First player to reach 100 score wins, but if player draws 1 score resets to zero.',
+    info2: '',
+    url: 'https://roll-the-dice-javascript-game.netlify.app/',
+    repo: 'https://github.com/utkarsh-112/Roll-the-dice-game', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
