@@ -71,13 +71,22 @@ export const projectsData = [
     url: 'https://roll-the-dice-javascript-game.netlify.app/',
     repo: 'https://github.com/utkarsh-112/Roll-the-dice-game', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project6.jpg',
+    title: 'Mapty | Map Your Workouts App',
+    info: 'This is an app that uses geolocation API+ Leaflet API to map workouts and pin point them on the map.Just tap on the map where you want to map your workout and start adding workouts !!!! You can even tap on your workouts from the list, and the map will automatically take you exactly where the workout was done !!!!',
+    info2: '',
+    url: 'https://mapty-map-your-workouts.netlify.app/',
+    repo: 'https://github.com/utkarsh-112/Mapty-Mapping_Workouts', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
 export const contactData = {
   cta: '',
   btn: '',
-  email: 'https://github.com/utkarsh-112',
+  email: 'utkarshkharkwal@gmail.com',
 };
 
 // FOOTER DATA
