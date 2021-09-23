@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am a student of AMITY UNIVERSITY GURUGRAM currently pursuing Btech CSE. ',
+  paragraphOne: 'I am a student at AMITY UNIVERSITY GURUGRAM currently pursuing Btech CSE. ',
   paragraphTwo:
-    'I love programming and learning new programming language especially making interesting projects with them. ',
+    'I love programming and learning new programming languages especially making interesting projects with them. ',
   paragraphThree:
     'I seek new challenges and try to think out-of-the-box while looking for creative solutions to a given problem.',
   resume:
